@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🤖 About Me:
 🚀I'm Vedhesh, a programmer with a keyboard in one hand and wild ideas in the other. I craft digital magic, turning lines of code into cool, quirky products. Whether I'm wrestling with bugs or chasing the next big tech trend, I'm always up for a challenge.
 
 
